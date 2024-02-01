@@ -1,0 +1,62 @@
+﻿{
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "dataset": [
+    {
+      "accessLevel": "Public",
+      "bureauCode": [
+        "21:12"
+      ],
+      "contactPoint": {
+        "fn": "ANG-E281, Structures and Materials Section",
+        "hasEmail": "dave.stanley@faa.gov"
+      },
+      "description": "This data set provides measured crack extensions of each test crack orientation; circumferential, mill-line, and longitudinal, as outlined in Assessment of Emerging Metallic Structures Technologies through Test and Analysis of Fuselage Structure: Test Panel 1, DOT/FAA/TC-21/25, https://rosap.ntl.bts.gov/view/dot/5784.\n\n\n\n\n\nThe Full-Scale Aircraft Structural Test Evaluation and Research (FASTER) facility is capable of testing full scale curved-panel specimens under conditions represetnative of those seen by an aircraft in actual operation. The data obtained from tests is used to support and validate analytical models being developed by the FAA to predict the residual strength of fuselage structure.\n\nReferences: 15-CRDA-0310, DOT/FAA/TC-21/25, https://rosap.ntl.bts.gov/view/dot/5784",
+      "distribution": {
+        "accessURL": null,
+        "downloadURL": null,
+        "mediaType": "csv"
+      },
+      "identifier": null,
+      "keyword": [
+        "fuselage",
+        " panel",
+        " cracks",
+        " circumferential",
+        " longitudinal",
+        " mill-line",
+        " notch",
+        " extension"
+      ],
+      "modified": "11/29/2021",
+      "programCode": [
+        "021:007"
+      ],
+      "publisher": {
+        "name": "Structures & Materials (ANG-E281)",
+        "subOrganizationOf": {
+          "name": " Structures & Propulsion Branch (ANG-E28)",
+          "subOrganizationOf": {
+            "name": " Aviation Research Division (ANG-E2)",
+            "subOrganizationOf": {
+              "name": "William J. Hughes Technical Center (ANG-E)",
+              "subOrganizationOf": {
+                "name": "Office of NextGen (ANG-1)",
+                "subOrganizationOf": {
+                  "name": "Department of Transportation",
+                  "subOrganizationOf": {
+                    "name": "U.S. Government",
+                    "subOrganizationOf": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "rights": null,
+      "spatial": null,
+      "temporal": null,
+      "title": "Arconic Panel 1 Crack Extension Data"
+    }
+  ]
+}
